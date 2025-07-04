@@ -21,4 +21,7 @@ This project demonstrates how to fine-tune a DistilBERT model using the PEFT (Lo
 ## 📦 How to Run
 Clone the repo and run the notebook or `app.py`.
 
+![WhatsApp Image 2025-07-04 at 13 09 04_50f19ce5](https://github.com/user-attachments/assets/c10e2c4e-47ad-4e0c-ac5e-88baec6a11c4)
+
+
 
